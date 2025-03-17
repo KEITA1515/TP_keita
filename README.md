@@ -38,7 +38,23 @@ Ce répertoire contient des exemples et informations quant aux travaux pratiques
 
 # Architecture du Projet
 
-TP_keita
-│── License
-│── presentation
-└── README
+TP_KEITA
+│── images
+│   │── git-0.png
+│   │── git-0.svg
+│   │── git-1.png
+│   │── git-1.svg
+│   │── git-add.png
+│   │── git-add.svg
+│   │── git-clone.png
+│   │── git-clone.svg
+│   │── git-commit.png
+│   │── git-commit.svg
+│   │── git-pull.png
+│   │── git-pull.svg
+│   │── git-push.png
+│   │── git-push.svg
+│   └── GitHub-Logo.jpg
+│── LICENSE
+│── presentation.txt
+└── README.md
