@@ -1,6 +1,6 @@
 ## Github
 
-(images/GitHub-Logo.jpg)
+![Github](images/GitHub-Logo.jpg)
 
 ## tp-git
 TP d'initiation à git
